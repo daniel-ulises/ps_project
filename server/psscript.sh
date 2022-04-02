@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Each time the script runs, it will delete all the saved information in the
-# 'process' table, in order to save the most recent output and display it in
+# 'process' and 'users' tables, in order to save the most recent output and display it in
 # the React front end.
 sqlite3 db.sqlite3 "delete from api_process; delete from api_users; vacuum;"
 
