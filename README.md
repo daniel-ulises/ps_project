@@ -15,7 +15,7 @@ The backend is written in Python using Django, where it executes a Bash script t
 
 First the repository has to be cloned
 
-git clone https://gitlab.com/daniel-ulises/ps_project.git
+    git clone https://gitlab.com/daniel-ulises/ps_project.git
 Navigate to the project where two folders will be seen, client and server. The next step is to install the dependencies for them.
 
 In the root of the project is going to be a 'requirements.txt' file, which is going to be used to install the dependencies for the Django application. To do so, run the following
