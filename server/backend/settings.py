@@ -27,7 +27,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     "http://localhost",
-    "http://localhost:3000"
 ]
 
 CORS_ALLOW_METHODS = ["GET"]
