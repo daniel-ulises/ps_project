@@ -13,7 +13,7 @@ The backend is written in Python using Django, where it executes a Bash script t
 
 # How to install
 
-#### Make sure sqlite is installed, it's needed for the application.
+#### Make sure sqlite is installed, it's needed for the application. Django also has to be run with Python 3.
 
 First the repository has to be cloned
 
